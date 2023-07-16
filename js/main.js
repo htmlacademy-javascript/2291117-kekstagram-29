@@ -1,6 +1,5 @@
 import './util.js';
 import {getPictures} from './data.js';
+import './functions.js';
 
-console.log(
-  getPictures()
-);
+getPictures();
